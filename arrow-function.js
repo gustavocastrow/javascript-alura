@@ -2,7 +2,7 @@ function apresentar(nome) {
   return `meu nome é ${nome}`;
 }
 
-// Arrow function
+// Arrow function: primeiro paramentro + => retorno da função
 const apresentarArrow = nome => `meu nome é ${nome}`;
 const soma = (num1, num2) => num1 + num2;
 
